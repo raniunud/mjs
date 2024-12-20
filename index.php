@@ -1,0 +1,1 @@
+ini file baru hello world yy
